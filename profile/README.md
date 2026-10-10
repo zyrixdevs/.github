@@ -1,23 +1,25 @@
 <div align="center">
 
-# ✦ ZYRIX
+<img src="https://raw.githubusercontent.com/zyrixdevs/.github/main/profile/assets/zyrix-header.svg" alt="ZYRIX — Clean design. Useful software." width="100%">
 
-**Clean design. Useful software.**
+<br>
 
-A space for building, experimenting, and refining ideas.
-
-[Explore our repositories →](https://github.com/orgs/zyrixdevs/repositories)
+[Explore repositories](https://github.com/orgs/zyrixdevs/repositories) &nbsp;·&nbsp; [Visit the organization](https://github.com/zyrixdevs)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/zyrixdevs/.github/main/profile/assets/zyrix-divider.svg" alt="" width="100%">
 
-### Our approach
+### What we care about
 
-Keep interfaces minimal. Make every detail intentional. Build things that are useful.
+**Clarity** — interfaces that feel simple because the details are considered.  
+**Craft** — thoughtful design and developer experiences, from first sketch to final polish.  
+**Utility** — ideas made real, useful, and ready to share.
 
-We care about clear design, thoughtful developer experiences, and the work it takes to make something feel simple.
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/zyrixdevs/.github/main/profile/assets/zyrix-divider.svg" alt="" width="100%">
 
-<p align="center"><sub>ZYRIX DEV · Design &amp; Development</sub></p>
+<sub>ZYRIX DEV &nbsp;·&nbsp; DESIGN / DEVELOPMENT</sub>
+
+</div>
