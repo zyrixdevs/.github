@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="178" viewBox="0 0 1200 178" fill="none" role="img" aria-labelledby="title">
+<title id="title">Technology stack featuring React, TypeScript, Tailwind CSS, Three.js, GSAP, Lenis, Vite, Cloudflare and Playwright</title>
+<rect width="1200" height="178" rx="12" fill="#0A0E12"/>
+<path d="M30 42H1170M30 141H1170" stroke="#F2F5E9" stroke-opacity=".14"/>
+<path d="M407 28V151" stroke="#F2F5E9" stroke-opacity="0.16"/>
+<circle cx="38" cy="22" r="3" fill="#D7FF3F"/>
+<text x="50" y="26" font-size="11" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.8" fill="#9AA695">01 / FOUNDATION</text>
+<text x="30" y="86" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".6" fill="#EDF2E4">REACT</text>
+<text x="30" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.1" fill="#D7FF3F">TYPESCRIPT</text>
+<text x="180" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".5" fill="#ADB6A9">TAILWIND CSS</text><path d="M797 28V151" stroke="#F2F5E9" stroke-opacity="0.16"/>
+<circle cx="428" cy="22" r="3" fill="#D7FF3F"/>
+<text x="440" y="26" font-size="11" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.8" fill="#9AA695">02 / INTERACTION</text>
+<text x="420" y="86" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".6" fill="#EDF2E4">THREE.JS</text>
+<text x="420" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.1" fill="#D7FF3F">GSAP</text>
+<text x="570" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".5" fill="#ADB6A9">LENIS</text><path d="M1187 28V151" stroke="#F2F5E9" stroke-opacity="0"/>
+<circle cx="818" cy="22" r="3" fill="#D7FF3F"/>
+<text x="830" y="26" font-size="11" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.8" fill="#9AA695">03 / SHIPPING</text>
+<text x="810" y="86" font-size="20" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".6" fill="#EDF2E4">VITE</text>
+<text x="810" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.1" fill="#D7FF3F">CLOUDFLARE</text>
+<text x="960" y="116" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing=".5" fill="#ADB6A9">PLAYWRIGHT</text>
+<text x="30" y="162" font-size="10" font-family="Arial,Helvetica,sans-serif" letter-spacing="1" fill="#667066">TOOLS USED IN THE ZYRIX PORTFOLIO PROJECT</text>
+<path d="M1126 152h32l-11 -9m11 9 -11 9" stroke="#D7FF3F"/>
+</svg>
